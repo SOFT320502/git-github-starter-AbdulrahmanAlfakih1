@@ -1,0 +1,9 @@
+{
+    "name":"john",
+    "surname":"koln",
+    "email":"oweirjf@gmail.com",
+    "age":24,
+    "corses":["Comp0101","soft1245","soft3301"],
+    "teacher":true
+
+}
